@@ -1,0 +1,224 @@
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\ApplicationInsights.config
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\csc.exe
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\vbc.exe
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\VBCSCompiler.exe
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\DVD Shop.dll.config
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\DVD Shop.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\DVD Shop.pdb
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Antlr3.Runtime.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\AutoMapper.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\EntityFramework.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\EntityFramework.SqlServer.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Glimpse.Ado.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Glimpse.AspNet.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Glimpse.Core.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Glimpse.EF6.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Glimpse.Mvc5.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.DependencyCollector.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.Web.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.WindowsServer.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.ApplicationInsights.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Google.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Newtonsoft.Json.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Owin.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Net.Http.Formatting.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Helpers.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Http.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Http.WebHost.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Mvc.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Optimization.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Razor.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.Deployment.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.Razor.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\WebGrease.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\AutoMapper.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.DependencyCollector.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.Web.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AI.WindowsServer.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.ApplicationInsights.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Net.Http.Formatting.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Http.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Http.WebHost.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Helpers.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Mvc.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Optimization.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.Razor.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.Deployment.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\System.Web.WebPages.Razor.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Antlr3.Runtime.pdb
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Newtonsoft.Json.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\EntityFramework.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\EntityFramework.SqlServer.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Google.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD Shop.csprojResolveAssemblyReference.cache
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.InitialModel.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddIsSubscribedToCustomer.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddMembershipType.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.PopulateMembershipTypes.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.ApplyAnnotationsToCustomerName.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddNameToMembershipType.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SetNameOfMembershipTypes.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddBirthdateToCustomer.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddMovie.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.Genres.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SeedUsers.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddDrivingLicenseToApplicationUser.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddPhoneToApplicationUser.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SeedStaffUser.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddRental.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddNumberAvailableToMovie.resources
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD Shop.csproj.GenerateResource.Cache
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD Shop.dll
+E:\projects\C#\MVC Apps\DVD Shop\DVD Shop\obj\Testing\DVD Shop.pdb
+F:\DVD Shop\DVD Shop\bin\ApplicationInsights.config
+F:\DVD Shop\DVD Shop\bin\roslyn\csc.exe
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DVD Shop\DVD Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DVD Shop\DVD Shop\bin\roslyn\System.Collections.Immutable.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\System.Reflection.Metadata.dll
+F:\DVD Shop\DVD Shop\bin\roslyn\vbc.exe
+F:\DVD Shop\DVD Shop\bin\roslyn\VBCSCompiler.exe
+F:\DVD Shop\DVD Shop\bin\roslyn\VBCSCompiler.exe.config
+F:\DVD Shop\DVD Shop\bin\DVD Shop.dll.config
+F:\DVD Shop\DVD Shop\bin\DVD Shop.dll
+F:\DVD Shop\DVD Shop\bin\DVD Shop.pdb
+F:\DVD Shop\DVD Shop\bin\Antlr3.Runtime.dll
+F:\DVD Shop\DVD Shop\bin\AutoMapper.dll
+F:\DVD Shop\DVD Shop\bin\EntityFramework.dll
+F:\DVD Shop\DVD Shop\bin\EntityFramework.SqlServer.dll
+F:\DVD Shop\DVD Shop\bin\Glimpse.Ado.dll
+F:\DVD Shop\DVD Shop\bin\Glimpse.AspNet.dll
+F:\DVD Shop\DVD Shop\bin\Glimpse.Core.dll
+F:\DVD Shop\DVD Shop\bin\Glimpse.EF6.dll
+F:\DVD Shop\DVD Shop\bin\Glimpse.Mvc5.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.Agent.Intercept.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.DependencyCollector.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.Web.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.WindowsServer.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.ApplicationInsights.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Google.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DVD Shop\DVD Shop\bin\Microsoft.Web.Infrastructure.dll
+F:\DVD Shop\DVD Shop\bin\Newtonsoft.Json.dll
+F:\DVD Shop\DVD Shop\bin\Owin.dll
+F:\DVD Shop\DVD Shop\bin\System.Net.Http.Formatting.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Helpers.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Http.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Http.WebHost.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Mvc.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Optimization.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.Razor.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.Deployment.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.dll
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.Razor.dll
+F:\DVD Shop\DVD Shop\bin\WebGrease.dll
+F:\DVD Shop\DVD Shop\bin\AutoMapper.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.DependencyCollector.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.Web.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AI.WindowsServer.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.ApplicationInsights.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DVD Shop\DVD Shop\bin\System.Net.Http.Formatting.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Http.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Http.WebHost.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Helpers.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Mvc.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Optimization.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.Razor.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.Deployment.xml
+F:\DVD Shop\DVD Shop\bin\System.Web.WebPages.Razor.xml
+F:\DVD Shop\DVD Shop\bin\Antlr3.Runtime.pdb
+F:\DVD Shop\DVD Shop\bin\Newtonsoft.Json.xml
+F:\DVD Shop\DVD Shop\bin\EntityFramework.xml
+F:\DVD Shop\DVD Shop\bin\EntityFramework.SqlServer.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Google.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DVD Shop\DVD Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DVD Shop\DVD Shop\obj\Testing\DVD Shop.csprojResolveAssemblyReference.cache
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.InitialModel.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddIsSubscribedToCustomer.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddMembershipType.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.PopulateMembershipTypes.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.ApplyAnnotationsToCustomerName.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddNameToMembershipType.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SetNameOfMembershipTypes.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddBirthdateToCustomer.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddMovie.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.Genres.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SeedUsers.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddDrivingLicenseToApplicationUser.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddPhoneToApplicationUser.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.SeedStaffUser.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddRental.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD_Shop.Migrations.AddNumberAvailableToMovie.resources
+F:\DVD Shop\DVD Shop\obj\Testing\DVD Shop.csproj.GenerateResource.Cache
+F:\DVD Shop\DVD Shop\obj\Testing\DVD Shop.dll
+F:\DVD Shop\DVD Shop\obj\Testing\DVD Shop.pdb

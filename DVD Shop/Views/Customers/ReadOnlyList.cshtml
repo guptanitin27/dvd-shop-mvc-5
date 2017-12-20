@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DVD_Shop.Models.Customer>
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customers</h2>
+
+<table id="customers" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Customer</th>
+            <th>Membership Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        @*as a placeholder for the datatable*@
+    </tbody>
+
+</table>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            var table = $("#customers").DataTable({ //configuration object
+                ajax: {
+                    url: "/api/customers",
+                    dataSrc: "" //the data that i get is an array of object
+                },
+                columns: [
+                    {
+                        data: "name" //first column is a name of customer {but it's should be a link {custom rendering function}}
+                        
+                    },
+                    {
+                        data: "membershipType.name"
+                    }
+                ]
+            });
+        });
+    </script>
+}
+
